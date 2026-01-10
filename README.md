@@ -7,10 +7,10 @@ The objective of this project is to evaluate campaign effectiveness, identify op
 The project follows a real-world analytics workflow, beginning with data validation and preparation in SQL, followed by modelling, KPI creation, and storytelling using Power BI.
 
 #### Resources :
-- The original dataset is available [here]().
-- The SQL queries used for data inspection, validation, cleaning, and type normalisation can be found [here]().
-- The SQL queries used for feature engineering and business metric derivation can be found [here]().
-- The SQL queries used to build analytical views and KPI aggregations consumed by Power BI can be found [here]().
+- The original dataset is available [here](https://www.kaggle.com/datasets/manishabhatt22/marketing-campaign-performance-dataset?utm%5C_source=chatgpt.com).
+- The SQL queries used for data inspection, validation, cleaning, and type normalisation can be found [here](https://github.com/syahmikk43-jpg/Marketing-Campaign-Performance-Analysis/blob/main/marketing_campaign_sql/01_data_cleaning.sql).
+- The SQL queries used for feature engineering and business metric derivation can be found [here](https://github.com/syahmikk43-jpg/Marketing-Campaign-Performance-Analysis/blob/main/marketing_campaign_sql/02_feature_engineering.sql).
+- The SQL queries used to build analytical views and KPI aggregations consumed by Power BI can be found [here](https://github.com/syahmikk43-jpg/Marketing-Campaign-Performance-Analysis/blob/main/marketing_campaign_sql/03_analysis_views.sql).
 - An interactive PowerBI dashboard can be downloaded [here]().
   
 ---
