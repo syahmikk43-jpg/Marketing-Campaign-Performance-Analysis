@@ -61,7 +61,7 @@ As a result, the primary value of this analysis is the establishment of a **reli
 ### Overall Campaign Performance
 Across the 2021 period, marketing campaigns exhibit **highly consistent performance**, with average ROI clustering tightly around 500 percent and conversion rates remaining near 8 percent across all channels and campaign types. The narrow performance range indicates a well-controlled marketing execution environment rather than isolated high- or low-performing initiatives. Acquisition costs show similarly limited variation, reinforcing that profitability is driven by standardised execution rather than aggressive risk-taking.
 
-<img width="1584" height="1038" alt="Image" src="https://github.com/user-attachments/assets/18bad6ec-bff6-4ada-ad6f-4bc2fecd52e8" />
+
 
 ### Channel & Campaign Efficiency
 Analysis by channel and campaign type shows **minimal variance in average ROI and conversion rates**, with differences falling within a narrow band. This suggests that no single channel or campaign type materially outperforms others at an aggregate level. The consistency implies that channel selection alone is unlikely to drive significant performance gains under the current strategy, and that channel mix decisions are being executed with comparable effectiveness.
